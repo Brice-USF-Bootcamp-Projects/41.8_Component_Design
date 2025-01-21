@@ -1,6 +1,6 @@
 import React from "react";
 import Board from "./components/Board";
-import "./App.css";
+import "./css/App.css";
 
 /** Simple app that just shows the LightsOut game. */
 

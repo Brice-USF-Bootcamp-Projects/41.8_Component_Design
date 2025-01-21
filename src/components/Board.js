@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Cell from "./Cell";
-import "./Board.css";
+import "../css/Board.css";
 
 /** Game board of Lights out.
  *
